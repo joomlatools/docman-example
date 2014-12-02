@@ -9,7 +9,6 @@
 	<authorUrl></authorUrl>
 	<version>1.0.0</version>
 	<description>Example docman plugin</description>
-
 	<files>
 		<filename plugin="docman">docman.php</filename>
 	</files>

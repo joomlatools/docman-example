@@ -45,6 +45,7 @@ class PlgKoowaDocman extends PlgKoowaAbstract
 		}
 	}
 
+
 	/**
 	 * Add events are processed the same as edit events
 	 *
