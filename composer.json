@@ -1,5 +1,5 @@
 {
-    "name": "joomlatools/docman-example",
+    "name": "joomlatools/plg_docman_example",
     "type": "joomla-extension",
     "license": "GPLv3",
     "description": "Illustrates the use of event handlers through a plugin in DOCman",

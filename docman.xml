@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="3.1" type="plugin" group="koowa">
-	<name>Docman Example Plugin</name>
+	<name>plg_docman_example</name>
 	<author>Timble</author>
 	<creationDate>June 2013</creationDate>
 	<copyright></copyright>
