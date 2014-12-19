@@ -8,7 +8,7 @@
 
 defined('KOOWA') or die;
 
-class PlgKoowaDocman extends PlgKoowaAbstract
+class PlgKoowaDocman extends PlgKoowaSubscriber
 {
 	/**
 	 * After document is saved, look for certain keywords and do something
