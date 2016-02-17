@@ -1,7 +1,7 @@
 # Example DOCman Plugin
 
 This is an illustrative plugin to show how the use of the plugin system to do some processing on
-a [DOCman](http://www.joomlatools.com/docman) document.
+a [DOCman](https://www.joomlatools.com/extensions/docman/) document.
 
 ## Installation
 
